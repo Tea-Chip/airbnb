@@ -1,2 +1,0 @@
-# airbnb
-uty65
